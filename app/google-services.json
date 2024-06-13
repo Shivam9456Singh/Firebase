@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948036376646",
+    "project_id": "alien-mart-7aa58",
+    "storage_bucket": "alien-mart-7aa58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948036376646:android:cc9ebecd9cd52f8aa89247",
+        "android_client_info": {
+          "package_name": "com.martinestudio.foodorder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJ_GH81ko_I6OWNSNGXUmvwpbuP1h7pYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
